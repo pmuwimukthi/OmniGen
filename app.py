@@ -423,4 +423,4 @@ with gr.Blocks() as demo:
     gr.Markdown(article)
 
 # launch
-demo.launch()
+demo.launch(share=True)
